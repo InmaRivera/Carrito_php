@@ -1,0 +1,14 @@
+/* CSS carrito de compras */
+body{
+    font-family:'Raleway',Arial, Verdana, sans-serif;
+    background-color: #bce7f6;
+    background-image: url("../img/fondo.jpg");
+}
+h1,h3,h5{
+    font-family:'Titillium Web',Arial, Verdana, sans-serif;
+    color: #fafafa;
+}
+.color{
+    color: #f7f5f5;
+}
+
